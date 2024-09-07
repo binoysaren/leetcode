@@ -29,7 +29,7 @@ class Solution {
                 
             if((result > Integer.MAX_VALUE/10 ) ||( result == Integer.MAX_VALUE/10 && (s.charAt(i)-'0')> Integer.MAX_VALUE%10))
               {
-                return result =(sign== 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE);
+                return (sign== 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE);
               }
               result = result*10;
               result = result + (s.charAt(i)-'0');
