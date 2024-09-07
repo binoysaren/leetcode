@@ -27,12 +27,12 @@ class Solution {
         while(i<n && 0<=(int)s.charAt(i)-'0' && (int)s.charAt(i)-'0'<=9 )
         {
                 
-            if((result > Integer.MAX_VALUE/10 ) ||( result == Integer.MAX_VALUE/10 && (int)(s.charAt(i)-'0')> Integer.MAX_VALUE%10))
+            if((result > Integer.MAX_VALUE/10 ) ||( result == Integer.MAX_VALUE/10 && (s.charAt(i)-'0')> Integer.MAX_VALUE%10))
               {
                 return result =(sign== 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE);
               }
               result = result*10;
-              result = result + ((int)s.charAt(i)-'0');
+              result = result + (s.charAt(i)-'0');
               i++;
         }
              
