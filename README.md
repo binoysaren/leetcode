@@ -15,4 +15,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/binoysaren/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/binoysaren/leetcode/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
