@@ -54,6 +54,7 @@ leetcode dsa
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
