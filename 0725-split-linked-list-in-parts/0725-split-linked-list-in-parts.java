@@ -8,14 +8,14 @@ class Solution {
             current = current.next;
         }
         current = head;
-        int ps = count / k;
-        int ep = count % k;
+        int ps = count / k; // ps=partsize
+        int ep = count % k; // ep=extrapart
         for (int i = 0; i < k; i++) {
             if (current == null)
                 ans[i] = null;
             else {
                 ans[i] = current;
-                int cps = ps + (ep > 0 ? 1 : 0);
+                int cps = ps + (ep > 0 ? 1 : 0); //cps=current part size
                 ep--;
                 for (int j = 1; j < cps; j++) {
                     if (current != null) {
@@ -23,7 +23,7 @@ class Solution {
                     }
                 }
                 if (current != null) {
-                    ListNode np = current.next;
+                    ListNode np = current.next; // next part
                     current.next = null;
                     current = np;
                 }
