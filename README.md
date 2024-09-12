@@ -22,6 +22,7 @@ leetcode dsa
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/binoysaren/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/binoysaren/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -101,6 +102,7 @@ leetcode dsa
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -109,9 +111,14 @@ leetcode dsa
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
