@@ -64,6 +64,7 @@ leetcode dsa
 | ------- |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -97,4 +98,20 @@ leetcode dsa
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
