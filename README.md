@@ -8,6 +8,7 @@ leetcode dsa
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/binoysaren/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
@@ -37,6 +38,7 @@ leetcode dsa
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -90,6 +92,7 @@ leetcode dsa
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -121,4 +124,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
