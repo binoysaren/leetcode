@@ -68,6 +68,7 @@ leetcode dsa
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -83,6 +84,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/binoysaren/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Matrix
@@ -128,4 +130,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
