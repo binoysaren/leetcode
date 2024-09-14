@@ -9,12 +9,12 @@ class Solution {
         }
         return true;
     }
-      public String f(int a) {
-        StringBuilder b = new StringBuilder();
-        while (a > 0) {
-            b.insert(0, a % 2); 
-            a = a / 2;
-        }
-        return b.toString();
+    public String f(int a) {
+    String b = "";
+    while (a > 0) {
+        b = (a % 2) + b; 
+        a = a / 2;
     }
+    return b;
+}
 }
