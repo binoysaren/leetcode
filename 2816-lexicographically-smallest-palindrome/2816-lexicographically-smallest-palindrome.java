@@ -4,9 +4,9 @@ class Solution {
         int j = s.length() - 1;
         StringBuilder sb=new StringBuilder(s);
         while (i <= j) {
-            if (sb.charAt(i) - '0' < sb.charAt(j) - '0') {
+            if (sb.charAt(i)< sb.charAt(j)) {
                 sb.setCharAt(j, sb.charAt(i));
-            } else if (sb.charAt(i) - '0' > sb.charAt(j) - '0') {
+            } else if (sb.charAt(i) > sb.charAt(j)) {
                 sb.setCharAt(i, sb.charAt(j));
             } else {
                 i++;
