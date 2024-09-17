@@ -10,6 +10,7 @@ leetcode dsa
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/binoysaren/leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -91,6 +92,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -125,6 +127,7 @@ leetcode dsa
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
