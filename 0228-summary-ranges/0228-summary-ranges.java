@@ -1,8 +1,8 @@
 class Solution {
     public List<String> summaryRanges(int[] nums) {
         int n=nums.length;
+        if(n==0 || nums==null) return new ArrayList<>();
         List<String> list = new ArrayList<>();
-        if(n==0 || nums==null) return list;
         int start = nums[0];
         for (int i = 1; i < n; i++) {
             if (nums[i] != nums[i - 1] + 1) {
