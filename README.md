@@ -8,6 +8,7 @@ leetcode dsa
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/binoysaren/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -79,6 +80,7 @@ leetcode dsa
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
@@ -143,6 +145,7 @@ leetcode dsa
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
@@ -182,6 +185,7 @@ leetcode dsa
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
