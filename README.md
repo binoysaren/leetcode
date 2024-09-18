@@ -90,6 +90,7 @@ leetcode dsa
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/binoysaren/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -101,6 +102,7 @@ leetcode dsa
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
@@ -127,6 +129,7 @@ leetcode dsa
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
+| [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -137,6 +140,7 @@ leetcode dsa
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
