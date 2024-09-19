@@ -33,6 +33,7 @@ leetcode dsa
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/binoysaren/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/binoysaren/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/binoysaren/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/binoysaren/leetcode/tree/master/0725-split-linked-list-in-parts) |
@@ -45,6 +46,7 @@ leetcode dsa
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/binoysaren/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/binoysaren/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
