@@ -90,6 +90,7 @@ leetcode dsa
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/binoysaren/leetcode/tree/master/0228-summary-ranges) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -162,6 +163,7 @@ leetcode dsa
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
