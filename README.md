@@ -104,6 +104,7 @@ leetcode dsa
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/binoysaren/leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -150,11 +151,13 @@ leetcode dsa
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
+| [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
 |  |
