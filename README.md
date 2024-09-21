@@ -76,6 +76,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,4 +244,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/binoysaren/leetcode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
