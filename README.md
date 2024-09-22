@@ -27,6 +27,7 @@ leetcode dsa
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/binoysaren/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -52,6 +53,7 @@ leetcode dsa
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/binoysaren/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -156,6 +158,7 @@ leetcode dsa
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
