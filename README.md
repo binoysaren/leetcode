@@ -54,6 +54,7 @@ leetcode dsa
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -107,6 +108,7 @@ leetcode dsa
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/binoysaren/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
