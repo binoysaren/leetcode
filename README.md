@@ -26,6 +26,7 @@ leetcode dsa
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/binoysaren/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Interactive
@@ -102,6 +103,7 @@ leetcode dsa
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/binoysaren/leetcode/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -151,6 +153,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Math
@@ -181,6 +184,7 @@ leetcode dsa
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
