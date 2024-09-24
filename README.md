@@ -110,6 +110,7 @@ leetcode dsa
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
+| [0665-non-decreasing-array](https://github.com/binoysaren/leetcode/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
