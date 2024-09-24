@@ -112,6 +112,7 @@ leetcode dsa
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0665-non-decreasing-array](https://github.com/binoysaren/leetcode/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
+| [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
@@ -171,6 +172,7 @@ leetcode dsa
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
 | [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
