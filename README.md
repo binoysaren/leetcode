@@ -116,6 +116,7 @@ leetcode dsa
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0879-maximize-distance-to-closest-person](https://github.com/binoysaren/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/binoysaren/leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
