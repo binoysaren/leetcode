@@ -34,6 +34,7 @@ leetcode dsa
 | [0374-guess-number-higher-or-lower](https://github.com/binoysaren/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 ## Interactive
 |  |
 | ------- |
@@ -117,6 +118,7 @@ leetcode dsa
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/binoysaren/leetcode/tree/master/0665-non-decreasing-array) |
+| [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0879-maximize-distance-to-closest-person](https://github.com/binoysaren/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
@@ -298,4 +300,16 @@ leetcode dsa
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
