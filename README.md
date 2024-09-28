@@ -158,6 +158,7 @@ leetcode dsa
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/binoysaren/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -196,6 +197,7 @@ leetcode dsa
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/binoysaren/leetcode/tree/master/1806-count-of-matches-in-tournament) |
