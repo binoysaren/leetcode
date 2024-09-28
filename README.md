@@ -49,6 +49,7 @@ leetcode dsa
 | [0328-odd-even-linked-list](https://github.com/binoysaren/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/binoysaren/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/binoysaren/leetcode/tree/master/0859-design-circular-deque) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -123,6 +124,7 @@ leetcode dsa
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
+| [0859-design-circular-deque](https://github.com/binoysaren/leetcode/tree/master/0859-design-circular-deque) |
 | [0879-maximize-distance-to-closest-person](https://github.com/binoysaren/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/binoysaren/leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -308,6 +310,7 @@ leetcode dsa
 | ------- |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/binoysaren/leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -318,4 +321,8 @@ leetcode dsa
 | ------- |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/binoysaren/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
