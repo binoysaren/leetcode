@@ -154,6 +154,7 @@ leetcode dsa
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ leetcode dsa
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -236,6 +238,7 @@ leetcode dsa
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/binoysaren/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
