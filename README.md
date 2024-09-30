@@ -121,6 +121,7 @@ leetcode dsa
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
@@ -258,6 +259,7 @@ leetcode dsa
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -307,6 +309,7 @@ leetcode dsa
 | ------- |
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -326,6 +329,7 @@ leetcode dsa
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
