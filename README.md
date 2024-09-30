@@ -210,6 +210,7 @@ leetcode dsa
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -327,6 +328,7 @@ leetcode dsa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -389,4 +391,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
