@@ -105,6 +105,7 @@ leetcode dsa
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -203,6 +204,7 @@ leetcode dsa
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -329,6 +331,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
