@@ -108,6 +108,7 @@ leetcode dsa
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -162,6 +163,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/binoysaren/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -379,4 +381,8 @@ leetcode dsa
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
