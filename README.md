@@ -150,6 +150,7 @@ leetcode dsa
 | [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/binoysaren/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -183,6 +184,7 @@ leetcode dsa
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/binoysaren/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -246,6 +248,7 @@ leetcode dsa
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/binoysaren/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/binoysaren/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
