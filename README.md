@@ -131,6 +131,7 @@ leetcode dsa
 | [0228-summary-ranges](https://github.com/binoysaren/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -231,6 +232,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
