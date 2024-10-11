@@ -15,6 +15,7 @@ leetcode dsa
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/binoysaren/leetcode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/binoysaren/leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/binoysaren/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -145,6 +146,7 @@ leetcode dsa
 | [0560-subarray-sum-equals-k](https://github.com/binoysaren/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/binoysaren/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/binoysaren/leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/binoysaren/leetcode/tree/master/0665-non-decreasing-array) |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
@@ -203,6 +205,7 @@ leetcode dsa
 | [0560-subarray-sum-equals-k](https://github.com/binoysaren/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/binoysaren/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/binoysaren/leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
