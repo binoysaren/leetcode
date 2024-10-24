@@ -105,12 +105,14 @@ leetcode dsa
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
