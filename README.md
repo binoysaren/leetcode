@@ -214,6 +214,7 @@ leetcode dsa
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2838-sum-of-matrix-after-queries](https://github.com/binoysaren/leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -254,6 +255,7 @@ leetcode dsa
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2838-sum-of-matrix-after-queries](https://github.com/binoysaren/leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
