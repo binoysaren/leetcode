@@ -217,6 +217,7 @@ leetcode dsa
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2838-sum-of-matrix-after-queries](https://github.com/binoysaren/leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -294,6 +295,7 @@ leetcode dsa
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -451,6 +453,7 @@ leetcode dsa
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
