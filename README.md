@@ -221,6 +221,7 @@ leetcode dsa
 | [2554-minimum-total-distance-traveled](https://github.com/binoysaren/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/binoysaren/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -376,6 +377,7 @@ leetcode dsa
 | [2554-minimum-total-distance-traveled](https://github.com/binoysaren/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/binoysaren/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -386,6 +388,7 @@ leetcode dsa
 | [0506-relative-ranks](https://github.com/binoysaren/leetcode/tree/master/0506-relative-ranks) |
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
@@ -439,6 +442,7 @@ leetcode dsa
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/binoysaren/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -453,6 +457,7 @@ leetcode dsa
 | ------- |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/binoysaren/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
