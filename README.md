@@ -121,11 +121,13 @@ leetcode dsa
 | [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -457,6 +459,7 @@ leetcode dsa
 | ------- |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/binoysaren/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Dynamic Programming
 |  |
@@ -533,6 +536,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
