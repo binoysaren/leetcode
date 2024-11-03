@@ -17,6 +17,7 @@ leetcode dsa
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/binoysaren/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0812-rotate-string](https://github.com/binoysaren/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/binoysaren/leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/binoysaren/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -516,6 +517,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/binoysaren/leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/binoysaren/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
