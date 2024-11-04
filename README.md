@@ -220,6 +220,7 @@ leetcode dsa
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/binoysaren/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1206-corporate-flight-bookings](https://github.com/binoysaren/leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/binoysaren/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -334,6 +335,7 @@ leetcode dsa
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
+| [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -406,6 +408,7 @@ leetcode dsa
 | [0946-smallest-range-ii](https://github.com/binoysaren/leetcode/tree/master/0946-smallest-range-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/binoysaren/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/binoysaren/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/binoysaren/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2554-minimum-total-distance-traveled](https://github.com/binoysaren/leetcode/tree/master/2554-minimum-total-distance-traveled) |
