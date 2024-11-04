@@ -35,6 +35,7 @@ leetcode dsa
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/binoysaren/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/binoysaren/leetcode/tree/master/3451-string-compression-iii) |
 ## Binary Search
 |  |
 | ------- |
