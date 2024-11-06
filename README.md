@@ -260,6 +260,7 @@ leetcode dsa
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2838-sum-of-matrix-after-queries](https://github.com/binoysaren/leetcode/tree/master/2838-sum-of-matrix-after-queries) |
+| [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -327,6 +328,7 @@ leetcode dsa
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/binoysaren/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/binoysaren/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -421,6 +423,7 @@ leetcode dsa
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
