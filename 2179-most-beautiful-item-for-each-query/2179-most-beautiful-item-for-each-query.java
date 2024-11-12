@@ -1,7 +1,6 @@
 class Solution {
     public int[] maximumBeauty(int[][] items, int[] queries) {
         int n = queries.length;
-        int[] ans = new int[n];
         Arrays.sort(items, (a, b) -> a[0] - b[0]);
         int maxi = Integer.MIN_VALUE;
         for (int i = 0; i < items.length; i++) {
@@ -20,8 +19,8 @@ class Solution {
                     right = mid - 1;
                 }
             }
-            ans[i] = maxFoundBeauty;
+            queries[i] = maxFoundBeauty;
         }
-        return ans;
+        return queries;
     }
 }
