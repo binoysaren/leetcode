@@ -1,13 +1,12 @@
 class Solution {
     public int[] maximumBeauty(int[][] items, int[] queries) {
-        int n = queries.length;
         Arrays.sort(items, (a, b) -> a[0] - b[0]);
-        int maxi = Integer.MIN_VALUE;
+        int maxi = 0;
         for (int i = 0; i < items.length; i++) {
             maxi = Math.max(maxi, items[i][1]);
             items[i][1] = maxi;
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < queries.length; i++) {
             int left = 0, right = items.length - 1;
             int maxFoundBeauty = 0;
             while (left <= right) {
