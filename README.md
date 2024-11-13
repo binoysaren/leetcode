@@ -129,6 +129,7 @@ leetcode dsa
 | [0130-surrounded-regions](https://github.com/binoysaren/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/binoysaren/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/binoysaren/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/binoysaren/leetcode/tree/master/0463-island-perimeter) |
@@ -150,6 +151,7 @@ leetcode dsa
 | [0130-surrounded-regions](https://github.com/binoysaren/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/binoysaren/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/binoysaren/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
@@ -192,6 +194,7 @@ leetcode dsa
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/binoysaren/leetcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/binoysaren/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -357,6 +360,7 @@ leetcode dsa
 | [0130-surrounded-regions](https://github.com/binoysaren/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/binoysaren/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/binoysaren/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/binoysaren/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/binoysaren/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -532,6 +536,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
@@ -546,6 +551,7 @@ leetcode dsa
 | [0120-triangle](https://github.com/binoysaren/leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -558,6 +564,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -633,6 +640,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
