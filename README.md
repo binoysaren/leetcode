@@ -141,6 +141,7 @@ leetcode dsa
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -159,6 +160,7 @@ leetcode dsa
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -259,6 +261,7 @@ leetcode dsa
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/binoysaren/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/binoysaren/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/binoysaren/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -371,6 +374,7 @@ leetcode dsa
 | [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -542,6 +546,7 @@ leetcode dsa
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/binoysaren/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Dynamic Programming
 |  |
@@ -556,6 +561,7 @@ leetcode dsa
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/binoysaren/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -565,6 +571,7 @@ leetcode dsa
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -641,6 +648,7 @@ leetcode dsa
 | ------- |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
