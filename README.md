@@ -145,6 +145,7 @@ leetcode dsa
 | [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -165,6 +166,7 @@ leetcode dsa
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -256,6 +258,7 @@ leetcode dsa
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/binoysaren/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/binoysaren/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -384,6 +387,7 @@ leetcode dsa
 | [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -645,6 +649,7 @@ leetcode dsa
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Combinatorics
