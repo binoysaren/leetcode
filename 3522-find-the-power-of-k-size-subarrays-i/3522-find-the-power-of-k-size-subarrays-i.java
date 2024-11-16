@@ -8,11 +8,11 @@ class Solution {
             boolean flag = true;
             for (int j = i; j < i + k - 1; j++) {
                 if (nums[j] + 1 != nums[j + 1]) {
-                    flag=false;
+                    flag = false;
                 }
-                maxi=Math.max(maxi,nums[j+1]);
+                maxi = Math.max(maxi, nums[j + 1]);
             }
-            ans[index++]=!flag?-1:maxi;
+            ans[index++] = flag ? maxi : -1;
         }
         return ans;
     }
