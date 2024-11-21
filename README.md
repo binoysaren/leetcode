@@ -118,6 +118,7 @@ leetcode dsa
 | [0566-reshape-the-matrix](https://github.com/binoysaren/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [1806-count-of-matches-in-tournament](https://github.com/binoysaren/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/binoysaren/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -281,6 +282,7 @@ leetcode dsa
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/binoysaren/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/binoysaren/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/binoysaren/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/binoysaren/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/binoysaren/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -401,6 +403,7 @@ leetcode dsa
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/binoysaren/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
