@@ -1,8 +1,7 @@
 class Solution {
     public long maxMatrixSum(int[][] matrix) {
         long sum = 0;
-        long positive = 0;
-        long negative = 0;
+        int negative = 0;
         int n = matrix.length;
         long mini = Long.MAX_VALUE;
         for (int i = 0; i < n; i++) {
