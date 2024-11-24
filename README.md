@@ -269,6 +269,7 @@ leetcode dsa
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/binoysaren/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/binoysaren/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/binoysaren/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -408,6 +409,7 @@ leetcode dsa
 | [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/binoysaren/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1972-rotating-the-box](https://github.com/binoysaren/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/binoysaren/leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -566,6 +568,7 @@ leetcode dsa
 | [0946-smallest-range-ii](https://github.com/binoysaren/leetcode/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/binoysaren/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/binoysaren/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
