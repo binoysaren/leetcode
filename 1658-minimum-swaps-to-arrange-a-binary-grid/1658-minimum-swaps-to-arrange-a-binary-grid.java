@@ -23,9 +23,6 @@ class Solution {
             if (!found) return -1; 
             index++;
         }
-        for (int i = 0; i < n; i++) {
-            System.out.println(a[i]);
-        }
         int swap=0;
           for (int i = 0; i < n; i++) {
             if (a[i] != i) {
