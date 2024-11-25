@@ -169,6 +169,7 @@ leetcode dsa
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/binoysaren/leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -239,6 +240,7 @@ leetcode dsa
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/binoysaren/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0787-sliding-puzzle](https://github.com/binoysaren/leetcode/tree/master/0787-sliding-puzzle) |
 | [0790-global-and-local-inversions](https://github.com/binoysaren/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0859-design-circular-deque](https://github.com/binoysaren/leetcode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -403,6 +405,7 @@ leetcode dsa
 | [0566-reshape-the-matrix](https://github.com/binoysaren/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/binoysaren/leetcode/tree/master/0787-sliding-puzzle) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/binoysaren/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
