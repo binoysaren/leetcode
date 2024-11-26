@@ -12,6 +12,6 @@ class Solution {
                 ans=i;
             }
         }
-        return incoming>1?-1:ans;
+        return incoming>1?-1:ans;// ami robi 
     }
 }
