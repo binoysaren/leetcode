@@ -604,6 +604,7 @@ leetcode dsa
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3189-find-champion-ii](https://github.com/binoysaren/leetcode/tree/master/3189-find-champion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
