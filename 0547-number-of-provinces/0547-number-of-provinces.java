@@ -14,6 +14,7 @@ class Solution {
                 }
             }
         }
+        System.out.println(list);
         Set<Integer> visited = new HashSet<>();
         for (int i = 0; i < n; i++) {
             if (!visited.contains(i)) { 
