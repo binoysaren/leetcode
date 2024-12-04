@@ -17,8 +17,7 @@ class Solution {
     }
 
     public int f(char c1, char c2) {
-        if (c1 == c2) return 0;
-        if (c2 == (c1 - 1) || (c1 == 'a' && c2 == 'z')) return 1;
-        return -1;
+        if (c1 == 'a' && c2 == 'z') return 1;
+        return c1-c2;
     }
 }
