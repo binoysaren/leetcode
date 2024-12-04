@@ -212,6 +212,7 @@ leetcode dsa
 | [0040-combination-sum-ii](https://github.com/binoysaren/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/binoysaren/leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/binoysaren/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -423,6 +424,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/binoysaren/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/binoysaren/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/binoysaren/leetcode/tree/master/0200-number-of-islands) |
@@ -649,6 +651,7 @@ leetcode dsa
 | ------- |
 | [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/binoysaren/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/binoysaren/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/binoysaren/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/binoysaren/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
