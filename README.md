@@ -29,6 +29,7 @@ leetcode dsa
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/binoysaren/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/binoysaren/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/binoysaren/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/binoysaren/leetcode/tree/master/2580-circular-sentence) |
@@ -105,6 +106,7 @@ leetcode dsa
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/binoysaren/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/binoysaren/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/binoysaren/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/binoysaren/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/binoysaren/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
