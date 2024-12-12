@@ -141,6 +141,7 @@ leetcode dsa
 | [2411-spiral-matrix-iv](https://github.com/binoysaren/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/binoysaren/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -342,6 +343,7 @@ leetcode dsa
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -573,6 +575,7 @@ leetcode dsa
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/binoysaren/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Quickselect
 |  |
