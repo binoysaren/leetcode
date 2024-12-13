@@ -142,6 +142,7 @@ leetcode dsa
 | [2470-removing-stars-from-a-string](https://github.com/binoysaren/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/binoysaren/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/binoysaren/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -344,6 +345,7 @@ leetcode dsa
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/binoysaren/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -405,6 +407,7 @@ leetcode dsa
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/binoysaren/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/binoysaren/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/binoysaren/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -558,6 +561,7 @@ leetcode dsa
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/binoysaren/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/binoysaren/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -576,6 +580,7 @@ leetcode dsa
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/binoysaren/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/binoysaren/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Quickselect
 |  |
