@@ -315,6 +315,7 @@ leetcode dsa
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/binoysaren/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/binoysaren/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/binoysaren/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/binoysaren/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/binoysaren/leetcode/tree/master/1972-rotating-the-box) |
@@ -575,6 +576,7 @@ leetcode dsa
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/binoysaren/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/binoysaren/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/binoysaren/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/binoysaren/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -641,6 +643,7 @@ leetcode dsa
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/binoysaren/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/binoysaren/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/binoysaren/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
