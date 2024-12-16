@@ -1,21 +1,18 @@
 class Solution {
     public int[] getFinalState(int[] nums, int k, int multiplier) {
-        while(k-->0){
-            nums[f(nums)]=nums[f(nums)]*multiplier;
+        while (k-- > 0) {
+            int minIndex = getMinIndex(nums);
+            nums[minIndex] *= multiplier;
         }
         return nums;
     }
-    public int f(int[] n) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < n.length; i++) {
-            if (!map.containsKey(n[i])) {
-                map.put(n[i], i);
+    private int getMinIndex(int[] nums) {
+        int minIndex = 0;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < nums[minIndex]) {
+                minIndex = i;
             }
         }
-        int mini = Integer.MAX_VALUE;
-        for (int i : n) {
-            mini = Math.min(mini, i);
-        }
-        return map.get(mini);
+        return minIndex;
     }
 }
