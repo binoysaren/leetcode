@@ -157,6 +157,7 @@ leetcode dsa
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/binoysaren/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ leetcode dsa
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/binoysaren/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/binoysaren/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
