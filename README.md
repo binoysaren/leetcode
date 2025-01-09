@@ -473,6 +473,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/binoysaren/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
