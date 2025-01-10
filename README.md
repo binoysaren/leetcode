@@ -19,6 +19,7 @@ leetcode dsa
 | [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/binoysaren/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/binoysaren/leetcode/tree/master/0952-word-subsets) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/binoysaren/leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/binoysaren/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
@@ -315,6 +316,7 @@ leetcode dsa
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/binoysaren/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0946-smallest-range-ii](https://github.com/binoysaren/leetcode/tree/master/0946-smallest-range-ii) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/binoysaren/leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0952-word-subsets](https://github.com/binoysaren/leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/binoysaren/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -428,6 +430,7 @@ leetcode dsa
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/binoysaren/leetcode/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/binoysaren/leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/binoysaren/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
