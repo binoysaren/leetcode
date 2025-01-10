@@ -340,6 +340,7 @@ leetcode dsa
 | [1497-design-a-stack-with-increment-operation](https://github.com/binoysaren/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/binoysaren/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -770,6 +771,7 @@ leetcode dsa
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/binoysaren/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/binoysaren/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -826,6 +828,7 @@ leetcode dsa
 | ------- |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
+| [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
@@ -893,5 +896,6 @@ leetcode dsa
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
