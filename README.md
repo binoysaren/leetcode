@@ -168,6 +168,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/binoysaren/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -246,6 +247,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/binoysaren/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/binoysaren/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -263,6 +265,7 @@ leetcode dsa
 | [0074-search-a-2d-matrix](https://github.com/binoysaren/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/binoysaren/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/binoysaren/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/binoysaren/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -421,6 +424,7 @@ leetcode dsa
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/binoysaren/leetcode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/binoysaren/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
@@ -591,6 +595,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/binoysaren/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
