@@ -500,6 +500,7 @@ leetcode dsa
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/binoysaren/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/binoysaren/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/binoysaren/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/binoysaren/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/binoysaren/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/binoysaren/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -729,6 +730,7 @@ leetcode dsa
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/binoysaren/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/binoysaren/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/binoysaren/leetcode/tree/master/2509-minimize-xor) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/binoysaren/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
