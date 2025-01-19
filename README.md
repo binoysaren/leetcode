@@ -288,6 +288,7 @@ leetcode dsa
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/binoysaren/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/binoysaren/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/binoysaren/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/binoysaren/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -619,6 +620,7 @@ leetcode dsa
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/binoysaren/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/binoysaren/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -936,4 +938,8 @@ leetcode dsa
 | ------- |
 | [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/binoysaren/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
