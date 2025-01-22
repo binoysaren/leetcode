@@ -235,6 +235,7 @@ leetcode dsa
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1876-map-of-highest-peak](https://github.com/binoysaren/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/binoysaren/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -368,6 +369,7 @@ leetcode dsa
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1876-map-of-highest-peak](https://github.com/binoysaren/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/binoysaren/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/binoysaren/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/binoysaren/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -547,6 +549,7 @@ leetcode dsa
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/binoysaren/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1876-map-of-highest-peak](https://github.com/binoysaren/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/binoysaren/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/binoysaren/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/binoysaren/leetcode/tree/master/2145-grid-game) |
