@@ -199,6 +199,7 @@ leetcode dsa
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
 | [1106-escape-a-large-maze](https://github.com/binoysaren/leetcode/tree/master/1106-escape-a-large-maze) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -232,6 +233,7 @@ leetcode dsa
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
 | [1106-escape-a-large-maze](https://github.com/binoysaren/leetcode/tree/master/1106-escape-a-large-maze) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -348,6 +350,7 @@ leetcode dsa
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/binoysaren/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/binoysaren/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/binoysaren/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -544,6 +547,7 @@ leetcode dsa
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/binoysaren/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/binoysaren/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -599,6 +603,7 @@ leetcode dsa
 | [0982-minimum-increment-to-make-array-unique](https://github.com/binoysaren/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/binoysaren/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1364-tuple-with-same-product](https://github.com/binoysaren/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/binoysaren/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/binoysaren/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/binoysaren/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -907,6 +912,7 @@ leetcode dsa
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/binoysaren/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/binoysaren/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/binoysaren/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
