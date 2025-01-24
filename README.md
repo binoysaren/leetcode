@@ -194,6 +194,7 @@ leetcode dsa
 | [0733-flood-fill](https://github.com/binoysaren/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/binoysaren/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/binoysaren/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/binoysaren/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
@@ -230,6 +231,7 @@ leetcode dsa
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/binoysaren/leetcode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/binoysaren/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/binoysaren/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/binoysaren/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/binoysaren/leetcode/tree/master/1073-number-of-enclaves) |
 | [1106-escape-a-large-maze](https://github.com/binoysaren/leetcode/tree/master/1106-escape-a-large-maze) |
@@ -794,6 +796,7 @@ leetcode dsa
 | [0547-number-of-provinces](https://github.com/binoysaren/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/binoysaren/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/binoysaren/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/binoysaren/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/binoysaren/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/binoysaren/leetcode/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -933,6 +936,7 @@ leetcode dsa
 | ------- |
 | [0207-course-schedule](https://github.com/binoysaren/leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/binoysaren/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Shortest Path
 |  |
