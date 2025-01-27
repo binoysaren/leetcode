@@ -14,6 +14,7 @@ leetcode dsa
 | [0214-shortest-palindrome](https://github.com/binoysaren/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/binoysaren/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -137,6 +138,7 @@ leetcode dsa
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/binoysaren/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/binoysaren/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/binoysaren/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -712,6 +714,7 @@ leetcode dsa
 | ------- |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
