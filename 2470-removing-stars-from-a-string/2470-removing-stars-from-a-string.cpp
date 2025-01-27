@@ -5,12 +5,12 @@ public:
         stack<char> st;
         for(int i = 0; i < n; i++)
         {
-            st.push(s[i]);
-            if(s[i] == '*')
+              if(s[i] == '*')
             {
                 st.pop();
-                st.pop();
+                continue;
             }
+            st.push(s[i]);
         }
         string ans = "";
         while(! st.empty())
