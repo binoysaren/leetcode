@@ -56,6 +56,7 @@ leetcode dsa
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/binoysaren/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/binoysaren/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/binoysaren/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/binoysaren/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3451-string-compression-iii](https://github.com/binoysaren/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/binoysaren/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
@@ -605,6 +606,7 @@ leetcode dsa
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/binoysaren/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/binoysaren/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
@@ -635,6 +637,7 @@ leetcode dsa
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/binoysaren/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/binoysaren/leetcode/tree/master/3324-split-the-array) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/binoysaren/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/binoysaren/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
