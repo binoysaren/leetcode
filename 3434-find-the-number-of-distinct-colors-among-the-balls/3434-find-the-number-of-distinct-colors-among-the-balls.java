@@ -1,27 +1,25 @@
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
         int n = queries.length;
-        int[] ans = new int[n];
-        int index = 0;
-        Map<Integer, Integer> map = new HashMap<>();
-        Map<Integer, Integer> valueCount = new HashMap<>();
-        int uniqueCount = 0;
-        for (int[] query : queries) {
-            int key = query[0];
-            int value = query[1];
-            if (map.containsKey(key)) {
-                int oldValue = map.get(key);
-                valueCount.put(oldValue, valueCount.get(oldValue) - 1);
-                if (valueCount.get(oldValue) == 0) {
-                    uniqueCount--;
+        int[] ans=new int[n];
+        Map<Integer,Integer> colour=new HashMap<>();
+        Map<Integer,Integer> count=new HashMap<>();
+        int index=0;
+        for(int[] i:queries){
+            if(!colour.containsKey(i[0])){
+                colour.put(i[0],i[1]);
+                count.put(i[1],count.getOrDefault(i[1],0)+1);
+            }
+            else {
+                int c=colour.get(i[0]);
+                count.put(c,count.getOrDefault(c,0)-1);
+                if(count.get(c)==0){
+                    count.remove(c);
                 }
+                colour.put(i[0],i[1]);
+                count.put(i[1],count.getOrDefault(i[1],0)+1);
             }
-            map.put(key, value);
-            valueCount.put(value, valueCount.getOrDefault(value, 0) + 1);
-            if (valueCount.get(value) == 1) {
-                uniqueCount++;
-            }
-            ans[index++] = uniqueCount;
+            ans[index++]=count.size();
         }
         return ans;
     }
