@@ -8,9 +8,7 @@ class Solution {
         while(pq.size()>1 && pq.peek()<k){
            long x=pq.poll();
            long y=pq.poll();
-           if(x<k || y<k){
-            count++;
-           }
+           count++;
            long z=Math.min(x,y)*2+Math.max(x,y);
            pq.offer(z);
         }
