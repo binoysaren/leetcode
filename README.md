@@ -543,6 +543,7 @@ leetcode dsa
 | [0078-subsets](https://github.com/binoysaren/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/binoysaren/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/binoysaren/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -630,6 +631,7 @@ leetcode dsa
 | [1806-count-of-matches-in-tournament](https://github.com/binoysaren/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/binoysaren/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/binoysaren/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/binoysaren/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/binoysaren/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
