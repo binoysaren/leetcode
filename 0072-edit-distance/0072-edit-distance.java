@@ -4,7 +4,7 @@ class Solution {
         int n2 = word2.length();
         int[][] dp = new int[n1 + 1][n2 + 1];
         for (int i = 0; i < dp.length; i++) {
-            for (int j = 0; j < dp[i].length; j++) {
+            for (int j = 0; j < dp[0].length; j++) {
                 if (i == 0 && j == 0) {
                     dp[i][j] = 0;
                 } else if (i == 0) {
