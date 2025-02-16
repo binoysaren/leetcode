@@ -401,6 +401,7 @@ leetcode dsa
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/binoysaren/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/binoysaren/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/binoysaren/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/binoysaren/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/binoysaren/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -543,6 +544,7 @@ leetcode dsa
 | [0078-subsets](https://github.com/binoysaren/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/binoysaren/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/binoysaren/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/binoysaren/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
