@@ -11,6 +11,7 @@ leetcode dsa
 | [0072-edit-distance](https://github.com/binoysaren/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/binoysaren/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/binoysaren/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
@@ -310,6 +311,7 @@ leetcode dsa
 | [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/binoysaren/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/binoysaren/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binoysaren/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/binoysaren/leetcode/tree/master/0179-largest-number) |
@@ -486,6 +488,7 @@ leetcode dsa
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/binoysaren/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/binoysaren/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/binoysaren/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/binoysaren/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/binoysaren/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/binoysaren/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -890,6 +893,7 @@ leetcode dsa
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/binoysaren/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/binoysaren/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/binoysaren/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -918,6 +922,7 @@ leetcode dsa
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -943,6 +948,7 @@ leetcode dsa
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/binoysaren/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/binoysaren/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/binoysaren/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/binoysaren/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
