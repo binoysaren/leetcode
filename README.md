@@ -44,6 +44,7 @@ leetcode dsa
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/binoysaren/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/binoysaren/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/binoysaren/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/binoysaren/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/binoysaren/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/binoysaren/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/binoysaren/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -421,6 +422,7 @@ leetcode dsa
 | [1972-rotating-the-box](https://github.com/binoysaren/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/binoysaren/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/binoysaren/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2107-find-unique-binary-string](https://github.com/binoysaren/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/binoysaren/leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/binoysaren/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/binoysaren/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -523,6 +525,7 @@ leetcode dsa
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/binoysaren/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/binoysaren/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/binoysaren/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2107-find-unique-binary-string](https://github.com/binoysaren/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/binoysaren/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/binoysaren/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/binoysaren/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -558,6 +561,7 @@ leetcode dsa
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/binoysaren/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/binoysaren/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/binoysaren/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/binoysaren/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/binoysaren/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/binoysaren/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
