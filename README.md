@@ -562,6 +562,7 @@ leetcode dsa
 | [0040-combination-sum-ii](https://github.com/binoysaren/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/binoysaren/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/binoysaren/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1160-letter-tile-possibilities](https://github.com/binoysaren/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/binoysaren/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/binoysaren/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -643,6 +644,7 @@ leetcode dsa
 | [0189-rotate-array](https://github.com/binoysaren/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -910,6 +912,7 @@ leetcode dsa
 | [0300-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/binoysaren/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/binoysaren/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/binoysaren/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0583-delete-operation-for-two-strings) |
