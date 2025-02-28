@@ -28,6 +28,7 @@ leetcode dsa
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/binoysaren/leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/binoysaren/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/binoysaren/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/binoysaren/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/binoysaren/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/binoysaren/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/binoysaren/leetcode/tree/master/1304-longest-happy-string) |
@@ -936,6 +937,7 @@ leetcode dsa
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/binoysaren/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1105-uncrossed-lines](https://github.com/binoysaren/leetcode/tree/master/1105-uncrossed-lines) |
+| [1170-shortest-common-supersequence](https://github.com/binoysaren/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/binoysaren/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/binoysaren/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
