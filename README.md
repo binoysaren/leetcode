@@ -495,6 +495,7 @@ leetcode dsa
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2838-sum-of-matrix-after-queries](https://github.com/binoysaren/leetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2868-continuous-subarrays](https://github.com/binoysaren/leetcode/tree/master/2868-continuous-subarrays) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/binoysaren/leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/binoysaren/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -878,6 +879,7 @@ leetcode dsa
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/binoysaren/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/binoysaren/leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/binoysaren/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
