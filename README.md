@@ -371,6 +371,7 @@ leetcode dsa
 | [0611-valid-triangle-number](https://github.com/binoysaren/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/binoysaren/leetcode/tree/master/0665-non-decreasing-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/binoysaren/leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
@@ -950,6 +951,7 @@ leetcode dsa
 | [0416-partition-equal-subset-sum](https://github.com/binoysaren/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/binoysaren/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -1022,6 +1024,7 @@ leetcode dsa
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
 | [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
@@ -1101,6 +1104,7 @@ leetcode dsa
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/binoysaren/leetcode/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
