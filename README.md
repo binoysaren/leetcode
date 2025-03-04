@@ -670,6 +670,7 @@ leetcode dsa
 | [0189-rotate-array](https://github.com/binoysaren/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/binoysaren/leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/binoysaren/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
@@ -810,6 +811,7 @@ leetcode dsa
 | ------- |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/binoysaren/leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
