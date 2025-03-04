@@ -14,20 +14,20 @@ class Solution {
                         temp[i]=temp[i]+temp[j];
                     }
                     else if(dp[i]<dp[j]+1){
-                        dp[i]=dp[j]+1;
+                        dp[i]=Math.max(dp[i],dp[j]+1);
                         temp[i]=temp[j];
                     }
                 }
             }
             ans=Math.max(ans,dp[i]); 
         }
-        // for(int i=0;i<n;i++){
-        //      System.out.print(dp[i]+ " ");
-        //  }
-        //  System.out.println();
-        //   for(int i=0;i<n;i++){
-        //      System.out.print(temp[i]+ " ");
-        //  }
+        for(int i=0;i<n;i++){
+             System.out.print(dp[i]+ " ");
+         }
+         System.out.println();
+          for(int i=0;i<n;i++){
+             System.out.print(temp[i]+ " ");
+         }
         for(int i=0;i<n;i++){
             if(dp[i]==ans){
                 count+=temp[i];
