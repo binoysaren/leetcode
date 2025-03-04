@@ -21,13 +21,13 @@ class Solution {
             }
             ans=Math.max(ans,dp[i]); 
         }
-        for(int i=0;i<n;i++){
-             System.out.print(dp[i]+ " ");
-         }
-         System.out.println();
-          for(int i=0;i<n;i++){
-             System.out.print(temp[i]+ " ");
-         }
+        // for(int i=0;i<n;i++){
+        //      System.out.print(dp[i]+ " ");
+        //  }
+        //  System.out.println();
+        //   for(int i=0;i<n;i++){
+        //      System.out.print(temp[i]+ " ");
+        //  }
         for(int i=0;i<n;i++){
             if(dp[i]==ans){
                 count+=temp[i];
