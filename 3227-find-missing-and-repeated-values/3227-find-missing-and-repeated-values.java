@@ -26,5 +26,4 @@ class Solution {
     }
 }
 // 10-8 x=2;
-// sum-x+y=total
-
+// sum-a+b=total
