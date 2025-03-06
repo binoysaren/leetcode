@@ -8,7 +8,7 @@ class Solution {
             if(prices[i]<currentprice){
                 currentprice=prices[i];
             }
-            if(prices[i]>currentprice){
+            else if(prices[i]>currentprice){
                 currentprofit=prices[i]-currentprice;
             }
             ans=Math.max(ans,currentprofit);
