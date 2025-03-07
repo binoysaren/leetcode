@@ -1,29 +1,20 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-        int[] ans=new int[2];
-        int n=grid.length;
-        Set<Integer> set=new HashSet<>();
-        int number=1;
-        int a=0;
-        int b=0;
-        for(int[] i:grid){
-            for(int j:i){
-                if(set.contains(j)){
-                    a=j;
-                }
-                set.add(j);
+        long natural = 0;
+        long square = 0;
+        for (int[] i : grid) {
+            for (int j : i) {
+                natural += j;
+                square += j * j;
             }
         }
-        for(int i=1;i<=n*n;i++){
-            if(!set.contains(i)){
-                b=i;
-                break;
-            }
-        }
-        ans[0]=a;
-        ans[1]=b;
-        return ans;
+        long n=grid.length * grid.length;
+        long sum=(n*(n+1))/2;
+        long total=(n*(n+1)*(2*n+1))/6;
+        long temp1=sum-natural;
+        long temp2=(total-square)/temp1;
+        int b=(int)((temp1+temp2)/2);
+        int a=(int)(temp2-b);
+        return new int[]{a,b};
     }
 }
-// 10-8 x=2;
-// sum-a+b=total
