@@ -11,7 +11,7 @@ class Solution {
         int num1 = -1;
         int num2 = -1;
         int n = list.size();
-        System.out.println(list);
+        // System.out.println(list);
         // if (n == 1)
         //     return new int[] { -1, -1 };
         for (int i = n-1; i >=1; i--) {
