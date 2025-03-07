@@ -17,6 +17,7 @@ leetcode dsa
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/binoysaren/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/binoysaren/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/binoysaren/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -959,6 +960,7 @@ leetcode dsa
 | [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/binoysaren/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/binoysaren/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/binoysaren/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/binoysaren/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
