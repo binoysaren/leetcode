@@ -17,6 +17,7 @@ class Solution {
                 count++;
             }
             ans=Math.min(ans,count);
+            if(ans==0) return ans;
         }
         return ans;
     }
