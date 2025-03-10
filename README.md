@@ -91,6 +91,7 @@ leetcode dsa
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/binoysaren/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/binoysaren/leetcode/tree/master/0731-my-calendar-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/binoysaren/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/binoysaren/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/binoysaren/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/binoysaren/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -390,6 +391,7 @@ leetcode dsa
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/binoysaren/leetcode/tree/master/0876-hand-of-straights) |
 | [0879-maximize-distance-to-closest-person](https://github.com/binoysaren/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/binoysaren/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/binoysaren/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/binoysaren/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
