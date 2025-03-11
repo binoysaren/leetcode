@@ -621,6 +621,7 @@ leetcode dsa
 | [0078-subsets](https://github.com/binoysaren/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/binoysaren/leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/binoysaren/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/binoysaren/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/binoysaren/leetcode/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -689,6 +690,7 @@ leetcode dsa
 | [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/binoysaren/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/binoysaren/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/binoysaren/leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/binoysaren/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -834,6 +836,7 @@ leetcode dsa
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/binoysaren/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/binoysaren/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/binoysaren/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/binoysaren/leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/binoysaren/leetcode/tree/master/0394-decode-string) |
