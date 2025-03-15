@@ -522,6 +522,7 @@ leetcode dsa
 | [2868-continuous-subarrays](https://github.com/binoysaren/leetcode/tree/master/2868-continuous-subarrays) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/binoysaren/leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/binoysaren/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/binoysaren/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/binoysaren/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/binoysaren/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/binoysaren/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1024,6 +1025,7 @@ leetcode dsa
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/binoysaren/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/binoysaren/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/binoysaren/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Memoization
 |  |
 | ------- |
