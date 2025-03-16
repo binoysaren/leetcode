@@ -109,6 +109,7 @@ leetcode dsa
 | [2586-longest-square-streak-in-an-array](https://github.com/binoysaren/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/binoysaren/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/binoysaren/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/binoysaren/leetcode/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/binoysaren/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/binoysaren/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -504,6 +505,7 @@ leetcode dsa
 | [2616-maximal-score-after-applying-k-operations](https://github.com/binoysaren/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/binoysaren/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2662-check-knight-tour-configuration](https://github.com/binoysaren/leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2665-minimum-time-to-repair-cars](https://github.com/binoysaren/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/binoysaren/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/binoysaren/leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/binoysaren/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
