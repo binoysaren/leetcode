@@ -490,6 +490,7 @@ leetcode dsa
 | [2448-count-number-of-bad-pairs](https://github.com/binoysaren/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/binoysaren/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/binoysaren/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/binoysaren/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/binoysaren/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/binoysaren/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/binoysaren/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -649,6 +650,7 @@ leetcode dsa
 | [2308-divide-array-into-equal-pairs](https://github.com/binoysaren/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/binoysaren/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/binoysaren/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/binoysaren/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/binoysaren/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/binoysaren/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/binoysaren/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -946,6 +948,7 @@ leetcode dsa
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/binoysaren/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/binoysaren/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/binoysaren/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/binoysaren/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/binoysaren/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/binoysaren/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/binoysaren/leetcode/tree/master/2868-continuous-subarrays) |
