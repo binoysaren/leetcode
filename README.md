@@ -6,6 +6,7 @@ leetcode dsa
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/binoysaren/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/binoysaren/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binoysaren/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/binoysaren/leetcode/tree/master/0072-edit-distance) |
@@ -139,6 +140,7 @@ leetcode dsa
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/binoysaren/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/binoysaren/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/binoysaren/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/binoysaren/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1001,6 +1003,7 @@ leetcode dsa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/binoysaren/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/binoysaren/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/binoysaren/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/binoysaren/leetcode/tree/master/0064-minimum-path-sum) |
