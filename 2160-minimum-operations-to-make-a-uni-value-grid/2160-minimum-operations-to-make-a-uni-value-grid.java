@@ -14,15 +14,15 @@ class Solution {
         if (map.size() == 1) return 0;
         Arrays.sort(temp);
         int mid = temp[n / 2]; 
-        int left = (n / 2 > 0) ? temp[n / 2 - 1] : -1;
-        int right = (n / 2 < n - 1) ? temp[n / 2 + 1] : -1;
+        // int left = (n / 2 > 0) ? temp[n / 2 - 1] : -1;
+        // int right = (n / 2 < n - 1) ? temp[n / 2 + 1] : -1;
         int mini = Integer.MAX_VALUE;
         int a = f(map, mid, x);
-        int b = f(map, left, x);
-        int c1 = f(map, right, x);
+        // int b = f(map, left, x);
+        // int c1 = f(map, right, x);
         if (a != -1) mini = Math.min(mini, a);
-        if (b != -1) mini = Math.min(mini, b);
-        if (c1 != -1) mini = Math.min(mini, c1);
+        // if (b != -1) mini = Math.min(mini, b);
+        // if (c1 != -1) mini = Math.min(mini, c1);
         return mini == Integer.MAX_VALUE ? -1 : mini;
     }
     public int f(Map<Integer, Integer> map, int target, int x) {
