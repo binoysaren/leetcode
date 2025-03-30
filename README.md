@@ -25,6 +25,7 @@ leetcode dsa
 | [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/binoysaren/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/binoysaren/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0768-partition-labels](https://github.com/binoysaren/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/binoysaren/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/binoysaren/leetcode/tree/master/0952-word-subsets) |
@@ -151,6 +152,7 @@ leetcode dsa
 | [0611-valid-triangle-number](https://github.com/binoysaren/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/binoysaren/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/binoysaren/leetcode/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/binoysaren/leetcode/tree/master/0768-partition-labels) |
 | [0875-longest-mountain-in-array](https://github.com/binoysaren/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/binoysaren/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1028-interval-list-intersections](https://github.com/binoysaren/leetcode/tree/master/1028-interval-list-intersections) |
@@ -572,6 +574,7 @@ leetcode dsa
 | [0575-distribute-candies](https://github.com/binoysaren/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/binoysaren/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/binoysaren/leetcode/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/binoysaren/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/binoysaren/leetcode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/binoysaren/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/binoysaren/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -929,6 +932,7 @@ leetcode dsa
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/binoysaren/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/binoysaren/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/binoysaren/leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/binoysaren/leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/binoysaren/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/binoysaren/leetcode/tree/master/0876-hand-of-straights) |
 | [0891-score-after-flipping-matrix](https://github.com/binoysaren/leetcode/tree/master/0891-score-after-flipping-matrix) |
